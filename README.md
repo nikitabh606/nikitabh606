@@ -1,3 +1,4 @@
+![logo](https://github.com/nikitabh606/nikitabh606/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
 <h1 align="center">Hello there, I'm Nikita Bhandari</h1>
 <h3 align="center">A budding software engineer from India</h3>
 
