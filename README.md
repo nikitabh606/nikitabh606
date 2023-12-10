@@ -2,7 +2,7 @@
 <h1 align="center">Hello there, I'm Nikita Bhandari</h1>
 <h3 align="center">A budding software engineer from India</h3>
 
-<img align= "right" alt="coding" width= "400" src= "https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif">
+<img align= "right" alt="coding" width= "400" src= "https://media1.tenor.com/m/CVM0xCfZNg4AAAAd/shigure-ui.gif">
 
 - 🔭 I’m currently working on **Handwritten Digit Recognition using CNN**
 
